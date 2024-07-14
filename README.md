@@ -1,3 +1,7 @@
+This project was built by Five teammates, including me. I upload it here as part of my portfolio, and I might continue developing it individually in the future.
+Game build can be played by downloading [Hide and Shoot.zip](https://drive.google.com/file/d/1s47yT8dtr7yUmdnZ-qebzBHN7NCcmUR_/view?usp=drive_link) and starting the **Hide And Shoot.exe** in the folder.
+
+
 **NOTE** 
 If you want a full game against an AI, it will be located in Local Game. Training mode is just getting a feel of the game.
 We also have muiltiplayer, so you can try that out with another friend if you like. 
