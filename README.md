@@ -55,7 +55,7 @@ For Multiplayer: The creator of the room will be Player 1 and whoever joins that
 -Weapon Swap: Scroll wheel or [1] and [2].
 
 
-========================================================================================
+===================================================================
 
 这个项目是由包括我在内的五位队友共同完成的。我将其上传到这里作为我的作品集的一部分展示，未来我可能会继续单独开发它。
 游戏可通过下载 [Hide and Shoot.zip](https://drive.google.com/file/d/1s47yT8dtr7yUmdnZ-qebzBHN7NCcmUR_/view?usp=drive_link) 并解压后点击 **Hide And Shoot.exe** 启动.
